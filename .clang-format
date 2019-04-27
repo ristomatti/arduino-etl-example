@@ -1,0 +1,12 @@
+---
+BasedOnStyle: Chromium
+BinPackArguments: 'false'
+BinPackParameters: 'true'
+ColumnLimit: 100
+SortIncludes: 'false'
+TabWidth: '2'
+AllowShortBlocksOnASingleLine: true
+AllowShortFunctionsOnASingleLine: Inline
+AllowShortLoopsOnASingleLine: false
+IndentPPDirectives: None
+...
